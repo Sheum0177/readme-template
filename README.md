@@ -147,13 +147,13 @@ https://www.google.com
 
 <!--Image in HTML Tag-->
 ### Image in HTML Tag
-<img src="./images/sheum.JPEG" width="200" title="profile image"/>  
+<img src="./images/sheum.jpeg" width="200" title="profile image"/>  
 
 </hr></br>
 
 <!--Image in Markdown-->
 ### Image in Markdown
-![profile](./images/sheum.JPEG)  
+![profile](./images/sheum.jpeg)  
 
 😊
 
